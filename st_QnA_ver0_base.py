@@ -1,4 +1,4 @@
-!pip install langchain_openai
+pip install langchain_openai
 import streamlit as st  # Streamlit 라이브러리를 불러옴
 from langchain_openai import ChatOpenAI
 
